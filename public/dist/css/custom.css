@@ -1,0 +1,34 @@
+#btn_edit
+{
+    padding: 3px 6px !important;
+    margin: 2px;
+}
+#btn_delete
+{
+    padding: 3px 8px;
+    margin: 2px;
+}
+#btn_add
+{
+    padding: 3px 8px;
+    margin: 2px;
+}
+#btn_changestatus
+{
+    padding: 3px 10px;
+    margin: 2px;
+}
+#btn_view
+{
+    padding: 3px 7px;
+    margin: 2px;
+}
+#btn_return
+{
+    padding: 3px 7px;
+    margin: 2px;
+}
+label:not(.form-check-label):not(.custom-file-label)
+{
+    font-weight:400;
+}
